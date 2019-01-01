@@ -1,0 +1,48 @@
+*{
+  box-sizing: border-box;
+}
+
+header{
+  padding: 1.5em;
+}
+
+main{
+  text-align: center;
+  border-top: 0.3em solid black;
+  padding: 2em 1em 1em 1em;
+}
+
+#input-text{
+  height: 100%;
+}
+
+button{
+  margin: 0 -5px;
+}
+
+#error-message{
+  background-color: #D54A4A;
+  color: white;
+  padding: .75em;
+}
+
+#success-message{
+  background-color: #4AD57D;
+  color: white;
+  padding: .75em;
+}
+
+.form-inline{
+}
+
+.form-group{
+  display: inline-block;
+}
+
+form{
+  margin: 0 auto;
+}
+
+img{
+  max-width: 20%;
+}
