@@ -1,8 +1,8 @@
 # small-login-authentication
-JavaScript Login Authentication
+JavaScript Login Authentication (clientside js)
 
 Login Authentication using a random string generator
 <br>
 Something like reCAPTCHA
 for DOM manipulation, JavaScript and jQuery practice
-as well as client-side JavaScript
+
